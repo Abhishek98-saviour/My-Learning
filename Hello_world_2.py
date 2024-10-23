@@ -1,3 +1,1 @@
-Print("Abhishek")
-Delhi
-Neha was here..
+Neha and Abhishek both were here..
